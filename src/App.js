@@ -12,7 +12,8 @@ function App() {
         <a
           className="footer-link"
           href="https://github.com/NayoBaez/React-Dictionary-Project"
-          target="blank"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           Open-source Code
         </a>{" "}
