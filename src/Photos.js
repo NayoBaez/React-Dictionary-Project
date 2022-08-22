@@ -7,7 +7,6 @@ export default function Photos(props) {
       <section className="Photos">
         <div className="row">
           {props.photos.map(function(photo, index) {
-            console.log(photo);
             return (
               <div className="col-4" key={index}>
                 <a
