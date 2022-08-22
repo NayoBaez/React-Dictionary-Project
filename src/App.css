@@ -6,6 +6,10 @@ a {
   color: #6c61f6;
 }
 
+footer {
+  text-align: center;
+}
+
 .App {
   margin: 30px;
 }

@@ -1,3 +1,8 @@
+.Dictionary h1 {
+  font-size: 21px;
+  margin-bottom: 25px;
+  font-weight: bold;
+}
 .Dictionary section {
   background-color: white;
   margin: 25px 0;
@@ -11,10 +16,12 @@
   border-radius: 6px;
   border: solid 1px #ddd;
   color: rgb(72, 72, 72);
+  padding: 15px;
 }
 
 .Dictionary .hint {
   margin-top: 10px;
   font-size: 12px;
   font-style: italic;
+  opacity: 0.7;
 }
