@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Dictionary</h1>
-      <Dictionary />
+      <Dictionary defaultKeyword="sunset" />
       <footer>
         {" "}
         <a
