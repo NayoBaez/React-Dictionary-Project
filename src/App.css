@@ -1,3 +1,11 @@
+body {
+  background-color: #f9f7fe;
+}
+
+a {
+  color: #6c61f6;
+}
+
 .App {
   margin: 30px;
 }
