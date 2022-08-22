@@ -6,12 +6,20 @@ a {
   color: #6c61f6;
 }
 
+h1 {
+  text-align: center;
+  font-weight: Bold;
+  font-size: 40px;
+  margin: 40px 0 0;
+}
+
 footer {
   text-align: center;
 }
 
 .App {
-  margin: 30px;
+  margin: 0 auto;
+  max-width: 960px;
 }
 
 .footer-link {
