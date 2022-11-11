@@ -1,3 +1,5 @@
+[![MasterHead](https://raw.githubusercontent.com/NayoBaez/React-Dictionary-Project/main/GITHUB%20README%20BANNER%20-%20DICTIONARY.png)](https://nayobaez.com)
+
 
 # DICTIONARY DASHBOARD
 
