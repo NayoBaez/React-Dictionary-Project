@@ -9,7 +9,7 @@ I built this dictionary React App with a Search Engine feature. As you might hav
 
 ## Tech Stack
 
-Built with JSX, CSS, Bootstrap, React, Axios & the Openweather + Pexels API Integrations
+Built with JSX, CSS, Bootstrap, React, Axios & <br> Openweather + Pexels API Integrations
 
 
 
