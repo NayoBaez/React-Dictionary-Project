@@ -4,6 +4,9 @@
 # DICTIONARY DASHBOARD
 
 I built this dictionary React App with a Search Engine feature. As you might have noticed by now I am crazy about photography, so adding the image feature here was a must. The app utilizes React, JSX, CSS, Bootstrap, Axios and the Dictionaryapi.dev & Pexels API integrations. This project allowed me to become really familiar with incorporating JSX conditional rendering, looping though arrays and organising files into components for simplicity.
+
+<img align="right" alt="dictionary" width="350" src="http://nayobaez.com/images/React-Dictionary.png"></img>
+
 ## Tech Stack
 
 Built with JSX, CSS, Bootstrap, React, Axios & Openweather + Pexels API Integrations
