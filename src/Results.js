@@ -1,6 +1,7 @@
 import React from "react";
 import Phonetic from "./Phonetic";
 import Meaning from "./Meaning";
+import Photos from "./Photos";
 import "./Results.css";
 
 export default function Results(props) {
@@ -17,10 +18,12 @@ export default function Results(props) {
             );
           })}
         </section>
+        <Photos photos={props.photos} />
         {props.results.meanings.map(function(meaning, index) {
           return (
             <section key={index}>
               <Meaning meaning={meaning} />
+
             </section>
           );
         })}

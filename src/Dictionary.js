@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 import Results from "./Results";
-import Photos from "./Photos";
+
 
 import "./Dictionary.css";
 
@@ -61,8 +61,7 @@ export default function Dictionary(props) {
             e.g. Beach, Palmtree, Coconut, Giraffe, Paragliding, Adventure
           </div>
         </section>
-        <Results results={results} />
-        <Photos photos={photos} />
+        <Results results={results} photos={photos}  />
       </div>
     );
   } else {
